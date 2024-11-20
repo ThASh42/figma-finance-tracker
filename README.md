@@ -29,7 +29,7 @@ Steps to quickly set up and run your project.
 ## Usage
 The window will appear after running the gui.py file:
 
-![Alt text](images/image.png)
+![image of application](images/image.png)
 
 In that application you are able to submit expenses:
-![Alt text](images/image-1.png)
+![image of application: submit](images/image-1.png)
